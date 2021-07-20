@@ -1,0 +1,45 @@
+body {
+  background-color: #c4aead;
+}
+a {
+  border-bottom: 2px solid #1e90ff;
+}
+
+.fa {
+  color: rgb(255, 127, 80);
+}
+
+.box-center {
+  background-color: #ffff;
+  padding: 60px 10px;
+  margin: 40px 0;
+}
+
+.box-center:hover {
+  background-color: #87cefa;
+  cursor: pointer;
+}
+
+.text {
+  margin: 15px 0px;
+}
+
+.box {
+  padding: 60px 0;
+}
+.fa1 {
+  color: #00bfff;
+}
+
+.fa2 {
+  color: #3939e0;
+}
+.fa3 {
+  color: red;
+}
+.fa4 {
+  color: #87ceeb;
+}
+.fa5 {
+  color: black;
+}
